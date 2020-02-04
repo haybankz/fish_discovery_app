@@ -1,5 +1,7 @@
 # fish_discover_app
 
+UI design by [bhargav_9636](https://www.uplabs.com/posts/fish-discover-app)
+
 A new Flutter project.
 
 ## Getting Started
